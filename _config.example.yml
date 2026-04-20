@@ -66,8 +66,8 @@ plugins:
 navbar_links:
   GitHub:
     icon: fab fa-github
-    url: https://github.com/Glenhoooo
+    url: https://github.com/Glenhooo
 
 # Links at the bottom of the page.
 footer_links:
-  GitHub: https://github.com/Glenhoooo/hexo-theme-minos
+  GitHub: https://github.com/Glenhooo/hexo-theme-minos
